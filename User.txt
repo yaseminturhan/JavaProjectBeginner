@@ -1,0 +1,50 @@
+Yasemin:trhn:Admin!
+Hilal:ozkan:User!
+
+Successful Login on Fri Mar 08 17:29:11 EET 2019 in which the following username: sdevadmin
+and password: 425!pass were entered correctly by the user to access their account.
+It took the user 1 attempts to access their account successfully.
+
+Error: Invalid Security Code Credentials on Fri Mar 08 17:29:11 EET 2019 in which the
+following username: sdevadmin entered the incorrect emailed security code.
+
+Error: Invalid Login Credentials on Fri Mar 08 17:30:18 EET 2019 in which the
+following username: Yasemin and password: trhn were entered by a user
+in the attempt to access an account. This is users 1 attempt to login into this system
+unsuccessfully. This should be reviewed by a systems administrator for further action.
+
+Error: Invalid Login Credentials on Fri Mar 08 17:33:58 EET 2019 in which the
+following username: Yasemin and password: trhn were entered by a user
+in the attempt to access an account. This is users 1 attempt to login into this system
+unsuccessfully. This should be reviewed by a systems administrator for further action.
+
+Error: Invalid Login Credentials on Fri Mar 08 17:34:49 EET 2019 in which the
+following username: sdevadmin and password: 415!pass were entered by a user
+in the attempt to access an account. This is users 1 attempt to login into this system
+unsuccessfully. This should be reviewed by a systems administrator for further action.
+
+Error: Invalid Login Credentials on Fri Mar 08 17:34:49 EET 2019 in which the
+following username: sdevadmin and password: 415!pass were entered by a user
+in the attempt to access an account. This is users 2 attempt to login into this system
+unsuccessfully. This should be reviewed by a systems administrator for further action.
+
+Error: Invalid Login Credentials on Fri Mar 08 17:34:49 EET 2019 in which the
+following username: sdevadmin and password: 415!pass were entered by a user
+in the attempt to access an account. This is users 3 attempt to login into this system
+unsuccessfully. This should be reviewed by a systems administrator for further action.
+
+Successful Login on Fri Mar 08 17:35:07 EET 2019 in which the following username: sdevadmin
+and password: 425!pass were entered correctly by the user to access their account.
+It took the user 1 attempts to access their account successfully.
+
+Error: Invalid Login Credentials on Fri Mar 08 17:38:50 EET 2019 in which the
+following username: Yasemin and password: trhn were entered by a user
+in the attempt to access an account. This is users 1 attempt to login into this system
+unsuccessfully. This should be reviewed by a systems administrator for further action.
+
+Successful Login on Fri Mar 08 17:38:50 EET 2019 in which the following username: sdevadmin
+and password: 425!pass were entered correctly by the user to access their account.
+It took the user 2 attempts to access their account successfully.
+
+Error: Invalid Security Code Credentials on Fri Mar 08 17:38:50 EET 2019 in which the
+following username: sdevadmin entered the incorrect emailed security code.
